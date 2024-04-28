@@ -1,25 +1,23 @@
 # Overview
 
-we are trying to learn different learning in the course to stenght the problem learning skill.
+{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-This is the Hello world program.
+I create a hello world program
 
-I created this to show that the use of Visual Studio code , Github, and Python intergrated togther.
+Testing and setting up developmeent enviornment
 
+{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-
-[Software Demo Video](https://youtu.be/IijwMsWbPaA)
+https://www.youtube.com/watch?v=VOSqZPB4M7U&ab_channel=CNB
 
 # Development Environment
 
-*Visual Studio Code 
-*Python
-*Git / Github
+{Describe the tools that you used to develop the software}
 
-
+I used python
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Visual Studio Code and Github](https://code.visualstudio.com/docs/editor/versioncontrol)
-* [Python](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/readings/python-review.pdf)
+* [Python website ]([http://url.link.goes.here](https://www.python.org/))
+* [Instructions BYU idaho]([http://url.link.goes.here](https://byui-cse.github.io/cse310-ww-course/week01/activity_portfolio.html))
